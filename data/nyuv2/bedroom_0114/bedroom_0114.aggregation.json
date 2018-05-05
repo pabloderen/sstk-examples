@@ -1,0 +1,42 @@
+{
+"sceneId": "nyuv2.bedroom_0114",
+"appId": "Aggregator.v1",
+"segGroups": [
+	{
+	"id": 0,
+	"objectId": 0,
+	"segments": [41075,23068,25828,26755,24410,21363,22023,2662,22057,22367,22467,43910,40672,45367,22259,22321,43157,26326],
+	"label": "chest of drawers"
+	},
+	{
+	"id": 1,
+	"objectId": 1,
+	"segments": [4139],
+	"label": "floor"
+	},
+	{
+	"id": 2,
+	"objectId": 2,
+	"segments": [45789,45593,46781,49029,36375,46160,48061,46989,46064,31544,48520,47589,31110,32032,45949,47168,45849,51582],
+	"label": "bed"
+	},
+	{
+	"id": 3,
+	"objectId": 3,
+	"segments": [32498,33079,4654,33219,32985,5160,32936,9431,34471,34761,10018],
+	"label": "nightstand"
+	},
+	{
+	"id": 4,
+	"objectId": 4,
+	"segments": [43436],
+	"label": "wall"
+	},
+	{
+	"id": 5,
+	"objectId": 5,
+	"segments": [34671,36826,35075,37416,37155,33588,37483,15980,35714,36609],
+	"label": "pillow"
+	}
+],
+"segmentsFile": "nyuv2.bedroom_0114_vh_clean_2.0.010000.segs.json"}
