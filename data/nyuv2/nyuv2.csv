@@ -1,0 +1,2 @@
+fullId,source,id,datasets,valid,aligned,hasScreenshot,hasThumbnail,hasCleaned,fileType,fileSize,sceneLabel,sceneName,sceneType,deviceId,deviceName,userName,numDepthFrames,numColorFrames,numIMUmeasurements,lastOkStage,createdAt,updatedAt,path
+nyuv2.bedroom_0114,nyuv2,bedroom_0114,nyuv2,true,true,True,True,True,ply,2691954,,,bedroom,,,,,,,decimate,,2016-11-21T08:06:33,bedroom_0114
